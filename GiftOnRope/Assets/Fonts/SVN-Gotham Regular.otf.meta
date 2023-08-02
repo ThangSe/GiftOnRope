@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 633091ab0c66ade44b83f34b9da8665c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SVN-Gotham
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 588c1f76a761dc341a0348090766cb4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
